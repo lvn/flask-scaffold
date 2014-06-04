@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+<title>{{ title }}</title>
+
+{% block content %}
+<h2>{{ title }}</h2>
+<form name="register" action="{{ url_for('register') }}" method="post">
+	<input type="submit" value="Submit">
+</form>
+{% endblock %}

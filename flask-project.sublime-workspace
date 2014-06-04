@@ -1,0 +1,618 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rela",
+				"relation_get"
+			],
+			[
+				"rel",
+				"relation_get"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"c",
+				"category_get"
+			],
+			[
+				"Arti",
+				"ArticleCategories"
+			],
+			[
+				"Art",
+				"ArticleCategories"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"err",
+				"error_message"
+			],
+			[
+				"erro",
+				"error_code"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"er",
+				"error_code"
+			],
+			[
+				"filter",
+				"filter_by"
+			],
+			[
+				"b",
+				"BeautifulSoup"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"art",
+				"article_get"
+			],
+			[
+				"sear",
+				"search_query"
+			],
+			[
+				"resu",
+				"result_article"
+			],
+			[
+				"rend",
+				"render_template"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"accou",
+				"account_group"
+			],
+			[
+				"Account",
+				"AccountGroup"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ren",
+				"render_template"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"co",
+				"Column"
+			],
+			[
+				"list",
+				"list_users"
+			],
+			[
+				"model",
+				"modelForm"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"widt",
+				"border-width"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"boo",
+				"boolRow"
+			],
+			[
+				"num",
+				"num_dice"
+			],
+			[
+				"sum",
+				"sum_to_n"
+			],
+			[
+				"str",
+				"str_split"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"show",
+				"show_posts"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"start",
+				"starting_points"
+			],
+			[
+				"get",
+				"get_db"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"gen",
+				"gen_int"
+			],
+			[
+				"sql",
+				"sqlite_db"
+			],
+			[
+				"sq",
+				"sqlite_db"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/models.py",
+			"settings":
+			{
+				"buffer_size": 223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 670,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/eyung/ELVINYUNG1/stuff/Flask/voobox/app/readme.md",
+		"/home/eyung/Documents/python/scopetest.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/wiski.sublime-project",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/templates/article.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/config.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/templates/category.html",
+		"/media/eyung/ELVINYUNG1/stuff/Python/amazon-preview-scraper/browser-scraper.js",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/sqlalchemy-test/templates/register.html",
+		"/media/eyung/ELVINYUNG1/stuff/Python/amazon-preview-scraper/amazon-preview-scraper.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/quimbu.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/sqlalchemy-test/sqlal-test.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/static/style.css",
+		"/home/eyung/Documents/python/cs245a1q3.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/models.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/templates/main.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/views.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/templates/edit.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/templates/searchresults.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/__init__.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/.fuse_hidden000001e900000001",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/app/.sublffa.tmp",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/app/views.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/config.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/app/templates/login.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/wiski/run.py",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung.com/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/app/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/app/models.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/app/__init__.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/templates/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/static/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/models.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/florum.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/templates/main.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/views.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/florum.sublime-project",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/florum/florum-config.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/templates/register.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/eyBlog/settings.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/templates/login.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/sqlalchemy-test/templates/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/Node/nodetest1/app.js",
+		"/media/eyung/ELVINYUNG1/stuff/Node/nodetest1/routes/users.js",
+		"/media/eyung/ELVINYUNG1/stuff/Node/nodetest1/models/thing.js",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/Hello/hello.py",
+		"/media/eyung/ELVINYUNG1/Downloads/hl3170cdw driver/hl3170cdwlpr-1.1.2-1.i386.deb",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/microblog-0.15/run.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/microblog-0.15/app/__init__.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/microblog-0.15/app/models.py",
+		"/media/eyung/ELVINYUNG1/stuff/Node/node-tutorial-2-restful-app/views/index.jade",
+		"/media/eyung/ELVINYUNG1/stuff/Node/node-tutorial-2-restful-app/routes/user.js",
+		"/media/eyung/ELVINYUNG1/stuff/Node/node-tutorial-2-restful-app/routes/users.js",
+		"/media/eyung/ELVINYUNG1/stuff/Node/node-tutorial-2-restful-app/routes/index.js",
+		"/media/eyung/ELVINYUNG1/stuff/Node/nodetest1/views/thing.jade",
+		"/media/eyung/ELVINYUNG1/stuff/Node/facturus/views/test1.jade",
+		"/media/eyung/ELVINYUNG1/stuff/Node/facturus/routes/users.js",
+		"/media/eyung/ELVINYUNG1/stuff/Node/facturus/readme.md",
+		"/media/eyung/ELVINYUNG1/stuff/Node/facturus/public/javascripts/jquery-1.11.1.min.js",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/eyBlog.sublime-project",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/db.sqlite3",
+		"/media/eyung/ELVINYUNG1/stuff/javac/Shapeways SE test/ElvinYung-test.html",
+		"/media/eyung/ELVINYUNG1/stuff/javac/Shapeways SE test/SE_Test/artistLists.java",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/readme.md",
+		"/media/eyung/ELVINYUNG1/stuff/Node/Facturi/readme.md",
+		"/media/eyung/ELVINYUNG1/stuff/Node/NodeToDo/readme.md",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/templates/post.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/models.py",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/static/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/templates/blog_main.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/templates/new_post.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/templates/make_post.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/views.py",
+		"/home/eyung/.local/share/applications/google-chrome-stable.desktop",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/forms.py",
+		"/media/eyung/ELVINYUNG1/stuff/javac/Shapeways SE test/SW_HTML_Test.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/manage.py",
+		"/home/eyung/.config/sublime-text-3/Packages/User/Scala.sublime-build",
+		"/media/eyung/ELVINYUNG1/stuff/Scala/helloWorld/helloWorld.scala",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/templates/show_posts.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/static/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/Scala/numerus/numerus.scala",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung_com/temp site/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/cherrypy/helloWorld/helloWorld.py",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung_com/temp site/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung_com/static/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/Wikitriever/Wikitriever.py",
+		"/media/eyung/ELVINYUNG1/stuff/html5_life/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/Scala/helloWorld.scala",
+		"/media/eyung/ELVINYUNG1/stuff/Scala/HelloWorld.class",
+		"/media/eyung/ELVINYUNG1/stuff/html5_life/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/html5_life/src/html5_life.js",
+		"/media/eyung/ELVINYUNG1/stuff/html5_life/src/grid.js",
+		"/home/eyung/Documents/Google Games code jam/die_hard.py",
+		"/home/eyung/Documents/Google Games code jam/die_hard",
+		"/home/eyung/Documents/Google Games code jam/sampleinput",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/urls.py",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung_com/static/carousel.css",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/eyBlog/urls.py",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung_com/index.html",
+		"/javac",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/eyBlog/wsgi.py",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/templates/blog_main.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/admin.py",
+		"/media/eyung/ELVINYUNG1/stuff/elvinyung_com/super_secret_page/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/blog_main.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/blog/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/schema.sql",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/jqueryexample/jqueryexample.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/jqueryexample/templates/index.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/jqueryexample/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Django/djtest1/mysite/manage.py",
+		"/media/eyung/ELVINYUNG1/stuff/Django/djtest1/mysite/polls/admin.py",
+		"/media/eyung/ELVINYUNG1/stuff/Django/djtest1/mysite/polls/models.py",
+		"/media/eyung/ELVINYUNG1/stuff/Django/djtest1/mysite/mysite/settings.py",
+		"/media/eyung/ELVINYUNG1/stuff/Django/djtest1/mysite/db.sqlite3",
+		"/media/eyung/ELVINYUNG1/stuff/javac/hellWorld/hellWorld.java",
+		"/media/eyung/ELVINYUNG1/stuff/javac",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/quimbu.db",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/flaskr/flaskr.py",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/flaskr/templates/show_entries.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/flaskr/templates/login.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/flaskr/static/style.css",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/flask-master/examples/flaskr/templates/layout.html",
+		"/media/eyung/ELVINYUNG1/stuff/Flask/quimbu/templates/main.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request.form",
+			"P(",
+			"\">\n",
+			"    ",
+			"user",
+			"{});\n",
+			"for",
+			"    ",
+			"  ",
+			"'post_title'",
+			" 	",
+			"    ",
+			"contact",
+			"featurette",
+			"    ",
+			"’",
+			"'",
+			"}}",
+			"    ",
+			"  ",
+			" ",
+			"close",
+			"logged_in",
+			"session",
+			"login()",
+			"secret"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"T(",
+			"	",
+			"\"post_title\"",
+			"	",
+			"&#39;",
+			"%}",
+			"	",
+			"\\hspace{1 mm}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "flask-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/media/eyung/ELVINYUNG1/stuff/Django/eyBlog/eyBlog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
