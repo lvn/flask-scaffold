@@ -239,12 +239,15 @@
 			"file": "app/__init__.py",
 			"settings":
 			{
-				"buffer_size": 321,
+				"buffer_size": 674,
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"contents": "from flask import Flask, request, session, g, redirect, url_for, abort, render_template\nfrom app import app, db, lm\n# from models import\n\n# View functions go here.\n@app.route('/')\ndef index():\n	return render_template('index.html')\n\n@app.route('/register/', methods=['GET', 'POST'])\ndef register():\n	if (request.method == 'POST'):\n		# register new account models\n		return\n	return render_template('register.html', title=\"Register your account\")\n\n@app.route('/login/', methods=['GET','POST'])\ndef login():\n	if (request.method == 'POST'):\n		# login account\n		return\n	return render_template('login.html', title=\"Login\")",
 			"file": "app/views.py",
+			"file_size": 614,
+			"file_write_time": 130464073715561200,
 			"settings":
 			{
 				"buffer_size": 614,
@@ -544,15 +547,15 @@
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 321,
+						"buffer_size": 674,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								0,
+								0
 							]
 						],
 						"settings":
@@ -579,8 +582,8 @@
 						"selection":
 						[
 							[
-								370,
-								370
+								561,
+								561
 							]
 						],
 						"settings":

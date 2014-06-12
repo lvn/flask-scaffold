@@ -7,5 +7,7 @@ div.header { display: block; height: 30px; margin: 0px; padding: 5px;
 div.leftbar { float: left; width: 14%; padding: 5px; min-height: 100%;
 	border-style: solid; border-width: 0px 1px 0px 0px; border-color: #777; }
 div.content { margin: 0% 0% 0% 15%; padding: 5px; }
+div.login { float: right; padding: 5px;}
 
 h3 { margin: inherit; padding: inherit; }
+h3.header {display: inline;}
